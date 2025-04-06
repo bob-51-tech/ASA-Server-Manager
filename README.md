@@ -9,7 +9,8 @@ Initial Launch & Configuration: Launch the server once to download all necessary
 Networking (For Public Servers): If you plan to run a public server, ensure all required ports are properly forwarded on your router/firewall and that the server IP address is correctly configured.
 Adding Mods: Add mods one at a time using the input box that appears when you click the "Add Mod" button. The application will automatically download each mod when the server is started.
 Start Your Server! After configuring settings and adding mods, you should be good to go!
-Screenshot 2025-04-06 170709.png
+
+![Alt text](URL "Screenshot 2025-04-06 170709.png")
 
 # Important Considerations:
 Server Relocation: Moving your server after creating a profile currently requires manually updating the server path within the server_profiles.json file. We plan to automate this process in a future update.
