@@ -10,7 +10,7 @@ Networking (For Public Servers): If you plan to run a public server, ensure all 
 Adding Mods: Add mods one at a time using the input box that appears when you click the "Add Mod" button. The application will automatically download each mod when the server is started.
 Start Your Server! After configuring settings and adding mods, you should be good to go!
 
-<img src="http://url/Screenshot 2025-04-06 170709.png" height="60" width="60" >
+<img src="http://url/Screenshot2025-04-06170709.png" height="512" width="512" >
 
 
 # Important Considerations:
