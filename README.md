@@ -10,7 +10,8 @@ Networking (For Public Servers): If you plan to run a public server, ensure all 
 Adding Mods: Add mods one at a time using the input box that appears when you click the "Add Mod" button. The application will automatically download each mod when the server is started.
 Start Your Server! After configuring settings and adding mods, you should be good to go!
 
-![Alt text](URL "/Screenshot 2025-04-06 170709.png")
+<img src="http://url/Screenshot 2025-04-06 170709.png" height="60" width="60" >
+
 
 # Important Considerations:
 Server Relocation: Moving your server after creating a profile currently requires manually updating the server path within the server_profiles.json file. We plan to automate this process in a future update.
